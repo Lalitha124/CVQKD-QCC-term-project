@@ -1,4 +1,4 @@
-## **README (10 Lines – Markdown Format)**
+## **README**
 
 - This project simulates a simplified Continuous-Variable Quantum Key Distribution (CV-QKD) system.  
 - It models Gaussian modulation at Alice and transmission through a lossy, noisy optical fiber.  
@@ -10,3 +10,5 @@
 - The key rate decreases steadily and collapses sharply near 40 km.  
 - Beyond this distance, secure key generation is no longer possible under the chosen parameters.  
 - The notebook provides a clear physical-layer understanding of how distance and noise limit CV-QKD performance.
+
+- 
