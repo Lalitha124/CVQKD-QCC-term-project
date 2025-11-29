@@ -11,4 +11,4 @@
 - Beyond this distance, secure key generation is no longer possible under the chosen parameters.  
 - The notebook provides a clear physical-layer understanding of how distance and noise limit CV-QKD performance.
 
-- 
+  
